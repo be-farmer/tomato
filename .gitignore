@@ -1,3 +1,7 @@
+# Possible files too large
+*.h5
+*.pkl
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks
 
